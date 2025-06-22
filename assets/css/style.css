@@ -193,6 +193,7 @@ header .navbar ul li a:hover {
   left: 0;
   height: 100%;
   width: 100%;
+  background-color: #000;
 }
 .home::before {
   content: "";
@@ -224,22 +225,23 @@ header .navbar ul li a:hover {
 .home .content h2 {
   font-size: 5rem;
   font-weight: 800;
-  color: #002057;
+  color: #fc1408;
 }
 .home .content h2 span {
   font-size: 5rem;
   font-weight: 800;
-  color: #ff7b00;
+  color: #08fcb3;
 }
 .home .content p {
   font-size: 2.5rem;
-  color: #000;
+  color: #fff;
   font-weight: 600;
   padding: 1rem 0;
+  text-transform: none;
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: rgb(148, 8, 8);
+  color: #ff03f7;
   font-weight: 600;
   padding: 1rem 0;
 }
@@ -290,7 +292,7 @@ header .navbar ul li a:hover {
   display: inline-block;
   line-height: 44px;
   color: #00d9ff;
-  background-color: #09011b;
+  background-color: #2d2e2d;
   width: 44px;
   height: 44px;
   text-align: center;
