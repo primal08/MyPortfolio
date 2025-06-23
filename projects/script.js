@@ -42,8 +42,9 @@ function getProjects() {
 
 function showProjects(projects) {
     let projectsContainer = document.querySelector(".work .box-container");
-    const basePath = window.location.pathname.includes('github.io') ? '/repo-name/' : '/';
-    //img.src = `${basePath}assets/images/projects/${project.image}`;
+    const isGitHubPages = window.location.hostname.includes("github.io");
+    const basePath = isGitHubPages ? '/MyPortfolio/' : '';
+
     let projectsHTML = "";
     projects.forEach(project => {
         projectsHTML += `

@@ -2,7 +2,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio",
+    "image": "portfolio.png",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -12,7 +12,7 @@
   {
     "name": "Parkinson's Disease Prediction(ML)",
     "desc": "Ensemble classification to detect Parkinson's Disease more quickly with a 'Correlation-based Redundancy Elimination' feature selection technique.",
-    "image": "parkinson",
+    "image": "parkinson.png",
     "category": "mern",
     "links": {
       "view": "https://ieeexplore.ieee.org/abstract/document/10141768",
@@ -22,7 +22,7 @@
   {
     "name": "Vehicle Management System",
     "desc": "Java based Vehicle Management System, supporting  Admins, Drivers, and Passengers.",
-    "image": "vehicle",
+    "image": "vehicle.png",
     "category": "mern",
     "links": {
       "view": "https://github.com/pavitrak8/VehicleManagement",
@@ -32,7 +32,7 @@
   {
     "name": "Diabetes Medical Predictor",
     "desc": "Supervised Machine Learning technique, Logistic Regression with weights method for classification of PIMA Indian diabetes data set.",
-    "image": "diabetes",
+    "image": "diabetes.png",
     "category": "mern",
     "links": {
       "view": "https://github.com/primal08/Diabetes-Medical-Predictor",
